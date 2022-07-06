@@ -8,5 +8,5 @@ import UIKit
 import Foundation
 
 class YelowViewController: UIViewController {
-//    let
+    let image = UIImage()
 }
