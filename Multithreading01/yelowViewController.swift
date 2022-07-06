@@ -7,5 +7,6 @@
 import UIKit
 
 class YelowViewController: UIViewController {
+    let image = UIImage()
     let button: UIButton = UIButton()
 }
