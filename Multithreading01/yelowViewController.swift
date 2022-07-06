@@ -5,8 +5,7 @@
 //  Created by macbook on 06.07.2022.
 //
 import UIKit
-import Foundation
 
 class YelowViewController: UIViewController {
-//    let
+    let button: UIButton = UIButton()
 }
